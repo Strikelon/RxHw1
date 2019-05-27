@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxHw1</string>
+    <string name="start_button">Старт</string>
+    <string name="subscribe_button">Подписаться</string>
+    <string name="unsubscribe_button">Отписаться</string>
+    <string name="spam_button">Спам</string>
+</resources>
